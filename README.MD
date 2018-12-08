@@ -31,4 +31,4 @@ Now you’re faced with implementing this system. The rules are complicated, and
 3. Let this specification drive your solution as a code model.
 
 # Results
-![](img/business-rules-eventstorming.png)
+![](img/highlevel.png)
