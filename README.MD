@@ -32,3 +32,5 @@ Now you’re faced with implementing this system. The rules are complicated, and
 
 # Results
 ![](img/highlevel.png)
+![](img/product orders.png)
+![](img/service orders.png)
